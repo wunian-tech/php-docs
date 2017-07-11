@@ -1,11 +1,10 @@
-##  通过WAMP基于Windows配置虚拟主机
+## 通过WAMP基于Windows配置虚拟主机
 
 ### USAGE
 
 #### 在此之前
 
 - 需要准备以下东西`Windows电脑` +` WAMP` + `Navicat(或者使用wamp自带的phpMyAdmin)`
-
 - 如果是PHP IDE的话，可以使用`PhpStorm`或者`atom`
 
 #### 方法/步骤
@@ -18,6 +17,6 @@
 
 - 打开`C:\windows\System32\drivers\etc`下的`hosts`文件，确认你的virtual host添加到hosts文件里(一般情况下WAMP会自动添加)。
 
-  ![hosts_file](.\images\hosts_file.jpg)
+  ![hosts_file](./images/hosts_file.jpg)
 
 - 重启WAMP。
