@@ -2,11 +2,11 @@
 
 ### 官方手册及汉化版
 
-- [Laravel 5.4 Routing-官方英文版](https://laravel.com/docs/5.4/routing)
+- [Laravel5.4 Routing-官方英文版](https://laravel.com/docs/5.4/routing)
 
 ### 新特性
 
-- [Laravel 5.3 新特性系列-路由文件及路径修改](http://laravelacademy.org/post/5495.html)
+- [Laravel5.3 新特性系列-路由文件及路径修改](http://laravelacademy.org/post/5495.html)
 
 ### 基于Laravel的Api设计
 
