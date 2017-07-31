@@ -37,8 +37,15 @@
 - [Laravel Multiple File Upload](https://devdojo.com/episode/laravel-multiple-file-upload)
 - [Laravel Access files in storage folder only through Auth Middleware and Token based authentication](https://stackoverflow.com/questions/37372317/access-files-in-storage-folder-only-through-auth-middleware-and-token-based-auth)
 - [Laravel Determining If a File Exists in Laravel 5](https://stackoverflow.com/questions/34028575/determining-if-a-file-exists-in-laravel-5)
+- [Laravel How should I serve an image with Laravel](https://stackoverflow.com/questions/36066144/how-should-i-serve-an-image-with-laravel)
+- [Laravel Image Intervention](http://image.intervention.io/getting_started/installation)
 
 ### Schedul任务调度
 
 - [Laravel5.4 任务调度（计划任务）功能-中文文档](http://d.laravel-china.org/docs/5.4/scheduling)
 - [Laravel5.4 Task Scheduling-官方英文版](https://laravel.com/docs/5.4/scheduling)
+
+### Cache缓存的使用
+
+- [Laravel5.4 Cache-官方英文版](https://laravel.com/docs/5.4/cache)
+- [Caching in Laravel with Speed Comparisons](https://scotch.io/tutorials/caching-in-laravel-with-speed-comparisons)
