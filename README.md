@@ -6,4 +6,5 @@
 - [Segmentfault PHP规范PSR4](https://segmentfault.com/a/1190000000380008)
 - [Laravel相关资料](/docs/laravel_docs.md)
 - [ThinkPHP相关资料](/docs/thinkphp_docs.md)
+- [Composer相关资料](/docs/composer_docs.md)
 - [第三方接口开发相关资料](/docs/china_third_apis.md)
