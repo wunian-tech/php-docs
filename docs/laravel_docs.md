@@ -5,6 +5,10 @@
 - [Laravel5.4 中文文档](http://d.laravel-china.org/docs/5.4/)
 - [Laravel5.4 官方英文版](https://laravel.com/docs/5.4/)
 
+### Laravel migrations 填充数据
+- [Laravel5.1 Database: Migrations-官方英文版](https://laravel.com/docs/5.1/migrations)
+- [Laravel5.1 数据库迁移-中文文档](http://laravelacademy.org/post/130.html)
+
 ### Laravel路由
 
 - [Laravel5.4 路由中间件-中文文档](http://d.laravel-china.org/docs/5.4/middleware)
