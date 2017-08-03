@@ -9,10 +9,34 @@
 - [Laravel5.1 Database: Migrations-官方英文版](https://laravel.com/docs/5.1/migrations)
 - [Laravel5.1 数据库迁移-中文文档](http://laravelacademy.org/post/130.html)
 
-### Laravel路由
+### Laravel 路由
 
 - [Laravel5.4 路由中间件-中文文档](http://d.laravel-china.org/docs/5.4/middleware)
 - [Laravel5.4 Routing-官方英文版](https://laravel.com/docs/5.4/routing)
+
+### Laravel 基础教程
+
+- [Laravel基础教程 - Artisan命令](http://www.jianshu.com/p/aff464779db4)
+
+### Laravel Validation 验证
+
+- [Get error message from Laravel validation](https://stackoverflow.com/questions/35421088/get-error-message-from-laravel-validation)
+
+### 深入理解Laravel
+
+- [深入理解Laravel中间件](https://segmentfault.com/a/1190000007715254)
+- [Laravel中间件实现原理](http://www.jianshu.com/p/f70612661422)
+
+### 深入理解Laravel 之 服务容器和依赖注入(建议按照顺序读)
+
+- [深入理解控制反转（IoC）和依赖注入（DI）](http://laravelacademy.org/post/769.html)
+
+- [Laravel 5.1 架构 服务容器-中文文档](http://laravelacademy.org/post/93.html)
+- [Laravel 5.1 IoC Container-官方英文版](https://laravel.com/docs/4.2/ioc)
+- [Laravel 5.3 核心概念 服务容器-中文文档](http://laravelacademy.org/post/5805.html)
+
+- [理解依赖注入与控制反转](https://laravel-china.org/topics/2104/understanding-dependency-injection-and-inversion-of-control)
+- [依赖注入相关文章](http://laravelacademy.org/tags/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5)
 
 ### 新特性
 
@@ -22,19 +46,6 @@
 
 - [App后端怎么设计用户登录方案](http://blog.csdn.net/newjueqi/article/details/44062849)
 - [Stackoverflow - How to use API Routes in Laravel 5.3](https://stackoverflow.com/questions/39540236/how-to-use-api-routes-in-laravel-5-3)
-
-### Laravel基础教程
-
-- [Laravel基础教程 - Artisan命令](http://www.jianshu.com/p/aff464779db4)
-
-### 深入理解Laravel
-
-- [深入理解Laravel中间件](https://segmentfault.com/a/1190000007715254)
-- [Laravel中间件实现原理](http://www.jianshu.com/p/f70612661422)
-
-### Validation 验证
-
-- [Get error message from Laravel validation](https://stackoverflow.com/questions/35421088/get-error-message-from-laravel-validation)
 
 ### 文件操作(上传, 读取)
 
