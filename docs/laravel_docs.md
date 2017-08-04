@@ -22,10 +22,24 @@
 
 - [Get error message from Laravel validation](https://stackoverflow.com/questions/35421088/get-error-message-from-laravel-validation)
 
+### Laravel Exception
+
+- [Laravel 5.4 Errors & Logging-官方英文版](https://laravel.com/docs/5.4/errors)
+- [What Are Laravel Exceptions?](https://code.tutsplus.com/tutorials/what-are-laravel-exceptions--cms-25816)
+- [Laravel 5.2 Illuminate 函数表](https://laravel.com/api/5.2/Illuminate/Exception.html)
+- [When should you use an Exception?](http://culttt.com/2014/04/09/use-exception/)
+- [Laravel 5 Error handling via a modern REST API](https://esbenp.github.io/2017/01/14/modern-rest-api-laravel-part-3/)
+
+
 ### 深入理解Laravel
 
 - [深入理解Laravel中间件](https://segmentfault.com/a/1190000007715254)
 - [Laravel中间件实现原理](http://www.jianshu.com/p/f70612661422)
+
+### Laravel Provider
+
+- [Laravel 5.4 Service Providers-官方英文版](https://laravel.com/docs/5.4/providers)
+- [Why use service providers? Any examples?](https://laracasts.com/discuss/channels/lumen/why-use-service-providers-any-examples?page=1)
 
 ### 深入理解Laravel 之 服务容器和依赖注入(建议按照顺序读)
 
