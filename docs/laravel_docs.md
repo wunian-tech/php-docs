@@ -84,3 +84,9 @@
 
 - [Laravel5.4 Cache-官方英文版](https://laravel.com/docs/5.4/cache)
 - [Caching in Laravel with Speed Comparisons](https://scotch.io/tutorials/caching-in-laravel-with-speed-comparisons)
+
+### Session的使用
+
+- [Laravel 5.4 Session-官方英文版](https://laravel.com/docs/5.4/session)
+- [laravel Session的使用, 填一下坑](https://www.chenyudong.com/archives/laravel-session-use.html)
+- [Stackoverflow - How can I get the session ID in Laravel?](https://stackoverflow.com/questions/16812747/how-can-i-get-the-session-id-in-laravel)
