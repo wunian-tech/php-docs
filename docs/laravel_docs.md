@@ -41,6 +41,12 @@
 - [Laravel 5.4 Service Providers-官方英文版](https://laravel.com/docs/5.4/providers)
 - [Why use service providers? Any examples?](https://laracasts.com/discuss/channels/lumen/why-use-service-providers-any-examples?page=1)
 
+### Laravel 模型绑定
+
+- [Laravel 5.4 Route Model Binding-官方英文版](https://laravel.com/docs/5.4/routing#route-model-binding)
+- [模型绑定讲解 - 在 Laravel 使用 Route Model Binding](https://jigsawye.com/2015/07/23/use-route-model-binding-in-laravel/)
+- [模型绑定 - Model binding with Laravel resources](https://www.neontsunami.com/posts/model-binding-with-laravel-resources)
+
 ### 深入理解Laravel 之 服务容器和依赖注入(建议按照顺序读)
 
 - [深入理解控制反转（IoC）和依赖注入（DI）](http://laravelacademy.org/post/769.html)
