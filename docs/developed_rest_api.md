@@ -14,5 +14,7 @@
 - [Laravel Github - Issue #18187 Store session data per key](https://github.com/laravel/framework/issues/18187)
 - [知乎 - 为什么在api.php里面也可以使用session?](https://www.zhihu.com/question/51914191)
 - [Segmentfault - api 使用session替代token 的利弊在哪?](https://segmentfault.com/q/1010000008903882?_ea=1774333)
+
+### Laravel 的 RESTful api 开发
 - [Segmentfault - 搞一搞laravel里api路由的 auth:api 和 api_token?](https://segmentfault.com/a/1190000009911009)
-- [Segmentfault - 在 Laravel 5 中如何限制 API 的调用频率](https://9iphp.com/web/laravel/laravel-and-api-rate-limiting.html)
+- [在 Laravel 5 中如何限制 API 的调用频率](https://9iphp.com/web/laravel/laravel-and-api-rate-limiting.html)
