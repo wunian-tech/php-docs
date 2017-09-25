@@ -13,6 +13,11 @@
 * 设置apache根目录权限组 `sudo chown -R www-data:www-data /var/www/`
 * 设置apache根目录文件权限 `sudo chmod -R 755 /var/www/`
 
+### 安装其他拓展
+
+* PHP bcmath module `sudo apt-get install php-bcmath`
+* PHP gd `apt-get install php7.0-gd`
+
 ### OTHERS
 
 * 材料仅供参考, 请你确定自己执行的每一行命令的明确意义
