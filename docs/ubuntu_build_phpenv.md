@@ -7,7 +7,10 @@
 * 安装mysql `sudo apt-get install mysql-server` -> 执行 mysql -uroot -p 进入数据库 -> 执行sql语句查看mysql版本select version();
 * 安装php7 `sudo apt install php7.0`
 * 安装php7其他拓展 `sudo apt install libapache2-mod-php7.0 php7.0-mysql php7.0-curl php7.0-json`
-* 设置/var/www/即apache根目录权限组 `sudo chown -R www-data:www-data /var/www/`
+
+### 根据情况修改/var/www/即apache根目录权限问题
+
+* 设置apache根目录权限组 `sudo chown -R www-data:www-data /var/www/`
 * 设置apache根目录文件权限 `sudo chmod -R 755 /var/www/`
 
 ### OTHERS
