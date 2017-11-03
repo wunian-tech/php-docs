@@ -12,3 +12,9 @@
 - [基于RESTful api的开发](/docs/developed_rest_api.md)
 - [第三方接口开发相关资料](/docs/china_third_apis.md)
 - [其他](/docs/others_docs.md)
+
+##  技术分享月报(Monthly Report)
+
+### 链接
+
+- [2017年10月](/docs/share/php_2017_oct.md)
