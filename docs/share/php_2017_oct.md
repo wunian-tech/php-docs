@@ -1,3 +1,5 @@
+# 十月技术月报 :bowtie:
+
 ## PROJECT
 
 - [如何转义emoji表情，让它可以存入utf8的数据库](https://segmentfault.com/q/1010000003711491)
@@ -25,7 +27,7 @@
 - [高并发下悲观锁与乐观锁的选择问题](https://segmentfault.com/q/1010000009251675)
 - [悲观锁和乐观锁的区别及应用场景](http://blog.csdn.net/php_younger/article/details/52634092)
 - [MySQL悲观锁Laravel的实现](http://www.jianshu.com/p/3048f3ebf761)
-- [理解事务的4种隔离级别](http://blog.csdn.net/qq_33290787/article/details/51924963) <- 推荐
+- [理解事务的4种隔离级别](http://blog.csdn.net/qq_33290787/article/details/51924963) <- 推荐 :innocent:
 - [Why MySQL could be slow with large tables ?需VPN](https://www.percona.com/blog/2006/06/09/why-mysql-could-be-slow-with-large-tables/)
 
 ## Linux
