@@ -1,4 +1,4 @@
-# 十月技术月报 :bowtie:
+# 十月技术月报
 
 ## PROJECT
 
@@ -28,7 +28,7 @@
 - [悲观锁和乐观锁的区别及应用场景](http://blog.csdn.net/php_younger/article/details/52634092)
 - [MySQL悲观锁Laravel的实现](http://www.jianshu.com/p/3048f3ebf761)
 - [理解事务的4种隔离级别](http://blog.csdn.net/qq_33290787/article/details/51924963) <- 推荐 :innocent:
-- [Why MySQL could be slow with large tables ?需VPN](https://www.percona.com/blog/2006/06/09/why-mysql-could-be-slow-with-large-tables/)
+- [Why MySQL could be slow with large tables ?](https://www.percona.com/blog/2006/06/09/why-mysql-could-be-slow-with-large-tables/) <- 需VPN :coffee:
 
 ## Linux
 - [What's the difference between .tar.gz and .gz, or .tar.7z and .7z?](https://askubuntu.com/questions/122141/whats-the-difference-between-tar-gz-and-gz-or-tar-7z-and-7z)
@@ -36,3 +36,4 @@
 ## OTHERS
 
 - [Markdown文件网页显示](https://segmentfault.com/q/1010000004113131)
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/maggiefor/How-To-Ask-Questions-The-Smart-Way)
